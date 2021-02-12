@@ -1,4 +1,4 @@
-# airportsLab
+# USAirportData
 Airport data displayer
 
 # Description
